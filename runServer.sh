@@ -1,0 +1,1 @@
+./build_release/bin/observer -f ../etc/observer.ini -p 6789
